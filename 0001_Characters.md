@@ -1,39 +1,39 @@
-# Chapter 1: Characters
+# Capítulo 1: Personajes
 
-The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
+La base del personaje se define mediante una serie de elementos que describen las capacidades del mismo. Estos elementos son:
 
-- Characteristics: such as Strength or Charisma
-- Attributes: things like Height or Movement
-- Skills: expertise in fundamental abilities
+- Características: Como la fuerza o el Carisma.
+- Atributos: Cosas como la Altura o el Movimiento.
+- Habilidades: Competencia en capacidades fundamentales.
 
-Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
-
----
-## Step 1: Character Concept
-
-A good place to start is to have some idea of what sort of character you want to play; a hardened fighter for example, or a cunning rogue. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Race and Class. A few character ideas are listed to provoke your imagination.
-
-- Young, naïve magic-user
-- Bad-tempered half-orc fighter
-- Overconfident halfling rogue
-- Pious dwarf cleric
+La mayoría de estos elementos se describen en valores numéricos, y algunos dependen o se calculan a partir de otros. En las siguientes secciones se describe lo que significa cada uno y cómo se determinan.
 
 ---
-## Step 2: Characteristics
+## Paso 1: Concepto del Personaje
 
-Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Classic Fantasy Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
+Un buen punto de partida es tener cierta idea de que tipo de personaje que quieres jugar; un luchador endurecido o un astuto ladronzuelo. El concepto de tu personaje no necesita ser muy elaborado en esta etapa, simplemente una idea que te ayude a tomar algunas decisiones como la raza y la clase. A continuación se incluyen algunas ideas para formentar tu imaginación.
 
-- Strength (STR)
-- Constitution (CON)
-- Size (SIZ)
-- Dexterity (DEX)
-- Intelligence (INT)
-- Power (POW)
-- Charisma (CHA)
+- Un joven e ingenuo usuario de la magia.
+- Un guerrero medio orco con mal caracter.
+- Un pícaro halfling demasiado confiado.
+- Un clérigo enano piadoro.
 
-Before calculating the Characteristics, the following section explains what each represents.
+---
+## Paso 2: Características
 
-#### Strength (STR)
+Todo el mundo está definido por siete Características que te dicen algo de tu personaje; lo fuerte o rápido que es; cuan listo o saludable, etc. Las Características son el núcleo de cada personaje de _Classic Fantasy Imperative_ y constituyen la base de la mayoría de los otros elementos como los Atributos y las Habilidades. Las siete Características son:
+
+- Fuerza (FUE)
+- Constitución (CON)
+- Tamaño (TAM)
+- Destreza (DES)
+- Inteligencia (INT)
+- Poder (POD)
+- Carisma (CAR)
+
+Antes de calcular las Características, la siguiente sección explica lo que representa cada una de ellas.
+
+#### Fuerza (FUE)
 
 STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
 
