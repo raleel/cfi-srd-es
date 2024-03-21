@@ -35,15 +35,15 @@ Antes de calcular las Características, la siguiente sección explica lo que rep
 
 #### Fuerza (FUE)
 
-STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
+FUE representa la fortaleza física; cuanto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md?id=damage-modifier) (ver la sección de [Atributos](0001_Characters.md?id=step-3-attributes) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
 
-#### Constitution (CON)
+#### Constitución (CON)
 
-CON is a measure of health and hardiness. CON is a component in determining [Hit Points](0001_Characters.md?id=hit-points) and [Healing Rate](0001_Characters.md?id=healing-rate) (see below). If CON falls to zero for any reason the character dies.
+CON es una medida de la salud y la resistencia. CON es un componente para determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points) y el [Ritmo de Curación](0001_Characters.md?id=healing-rate) (ver más adelante). Si CON llega a cero por alguna razón, el personaje muere.
 
-#### Size (SIZ)
+#### Tamaño (TAM)
 
-SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure [Hit Points](0001_Characters.md?id=hit-points), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
 
 #### Dexterity (DEX)
 
