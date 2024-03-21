@@ -102,25 +102,25 @@ The following table summarizes the information needed for each of the above meth
 | CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
-## Step 3: Attributes
+## Paso 3: Atributos
 
 Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-#### Action Points
+#### Puntos de Acción
 
 How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
 
-#### Damage Modifier
+#### Modificador de Daño
 
 The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-##### Damage Modifier Table
+##### Tabla Modificador de Daño
 
-| **STR+SIZ** | **Damage Modifier** |
+| **FUE+TAM** | **Modificador de Daño** |
 | :-: | :-: |
-| 5 or less | –1d8 |
+| 5 o menos | –1d8 |
 | 6–10 | –1d6 |
 | 11–15 | –1d4 |
 | 16–20 | –1d2 |
@@ -138,7 +138,7 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
 | 121–130 | +2d10+1d4 |
-| Each 10 points | Continue Progression |
+| Cada 10 puntos | Continua la progresión |
 
 #### Experience Modifier
 
@@ -146,29 +146,29 @@ Over the course of play characters improve their skills and capabilities. This i
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-##### Experience Modifier Table
+##### Tabla Modificador de Experiencia
 
-| CHA | Exp. Modifier |
+| CAR | Modificador de Experiencia |
 | :-: | :-: |
-| 6 or less | -1 |
+| 6 o menos | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
-| Each 6 points | +1 |
+| Cada 6 puntos | +1 |
 
-#### Healing Rate
+#### Ritmo de Curación
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-##### Healing Rate Table
+##### Tabla Ritmo de Curación
 
-| CON | Healing Rate |
+| CON | Ritmo de Curación |
 | :-: | :-: |
-| 6 or less | 1 |
+| 6 o menos | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Each 6 points | +1 |
+| Cada 6 puntos | +1 |
 
-#### Initiative
+#### Iniciativa
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
@@ -186,18 +186,18 @@ Exactly how they are used, and when, is described in the section, [Using Luck Po
 
 ##### Luck Points Table
 
-| POW | Luck Points |
+| POD | Luck Points |
 | :-: | :-: |
-| 6 or less | 1 |
+| 6 o menos | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Each 6 points | +1 |
+| Cada 6 puntos | +1 |
 
 _\* Humans start with one additional Luck Point over and above that shown above._
 
 _\*\* All characters gain an additional Luck Point as each new Rank is attained._
 
-#### Magic Points
+#### Puntos de Magia
 
 Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
