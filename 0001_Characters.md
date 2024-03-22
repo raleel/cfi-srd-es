@@ -45,24 +45,24 @@ CON es una medida de la salud y la resistencia. CON es un componente para determ
 
 TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
 
-#### Dexterity (DEX)
+#### Destreza (DES)
 
-Agility, balance, and reflexes are measured by DEX. It is an important aspect of [Initiative](0001_Characters.md?id=initiative). If a character is reduced to zero DEX, they suffer functional paralysis.
+Agilidad, equilibrio y reflejos se miden con la DES. Es un aspecto importante de la [Iniciativa](0001_Characters.md?id=initiative). Si la DES de un personaje queda reducida a cero sufre una parálisis funcional.
 
-#### Intelligence (INT)
+#### Inteligencia (INT)
 
-INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating [Initiative](0001_Characters.md?id=initiative). If INT is reduced to zero, the character becomes completely mindless.
+INT es una medida de la capacidad cognitiva. Quienes tienen una baja puntuación de INT no son necesariamente estúpidos, pero probablemente se verán limitados en como de creativamente pueden utilizar su ingenio. INT es un factor para calcular la [Iniciativa](0001_Characters.md?id=initiative). Si la INT se ve reducida a cero, el personaje queda reducido a una carcasa sin mente.
 
-#### Power (POW)
+#### Poder (POD)
 
-POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
+POD es una medida del alma, espíritu, fuerza interior o capacidad mágica del personaje. POD gobierna los [Puntos de Magia](0001_Characters.md?id=magic-points) y los [Puntos de Suerte](0001_Characters.md?id=luck-points). Si el POD de un personaje llega a caer a cero, pierde por completo el libre albedrío.
 
-####	 Charisma (CHA)
+#### Carisma (CAR)
 
-Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+CAR mide la personalidad y es independiente de la apariencia física. CAR afecta al [Modificador de Experiencia](0001_Characters.md?id=experience-modifier) del personaje. Si CAR llega a cero, el personaje no puede interactuar socialmente con otros, volviéndose dolorosamente tímido o antisocial hasta el punto de ser ignorado o incluso expulsado.
 
 ---
-### Calculating Characteristics
+### Generación de Características
 
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
