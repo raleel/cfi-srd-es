@@ -35,7 +35,7 @@ Antes de calcular las Características, la siguiente sección explica lo que rep
 
 #### Fuerza (FUE)
 
-FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md?id=modificador-de-daño) (ver la sección de [Atributos](0001_Characters.md?id=paso-3-atributos) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
+FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md#modificador-de-daño) (ver la sección de [Atributos](0001_Characters.md?id=paso-3-atributos) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
 
 #### Constitución (CON)
 
