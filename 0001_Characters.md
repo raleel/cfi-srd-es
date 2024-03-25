@@ -35,71 +35,71 @@ Antes de calcular las Características, la siguiente sección explica lo que rep
 
 #### Fuerza (FUE)
 
-FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md?id=damage-modifier) (ver la sección de [Atributos](0001_Characters.md?id=step-3-attributes) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
+FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md?id=modificador-de-daño) (ver la sección de [Atributos](0001_Characters.md?id=paso-3-atributos) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
 
 #### Constitución (CON)
 
-CON es una medida de la salud y la resistencia. CON es un componente para determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points) y el [Ritmo de Curación](0001_Characters.md?id=healing-rate) (ver más adelante). Si CON llega a cero por alguna razón, el personaje muere.
+CON es una medida de la salud y la resistencia. CON es un componente para determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points) y el [Ritmo de Curación](0001_Characters.md?id=ritmo-de-curacion) (ver más adelante). Si CON llega a cero por alguna razón, el personaje muere.
 
 #### Tamaño (TAM)
 
-TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
+TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md?id=puntos-de-golpe), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
 
 #### Destreza (DES)
 
-Agilidad, equilibrio y reflejos se miden con la DES. Es un aspecto importante de la [Iniciativa](0001_Characters.md?id=initiative). Si la DES de un personaje queda reducida a cero sufre una parálisis funcional.
+Agilidad, equilibrio y reflejos se miden con la DES. Es un aspecto importante de la [Iniciativa](0001_Characters.md?id=iniciativa). Si la DES de un personaje queda reducida a cero sufre una parálisis funcional.
 
 #### Inteligencia (INT)
 
-INT es una medida de la capacidad cognitiva. Quienes tienen una baja puntuación de INT no son necesariamente estúpidos, pero probablemente se verán limitados en como de creativamente pueden utilizar su ingenio. INT es un factor para calcular la [Iniciativa](0001_Characters.md?id=initiative). Si la INT se ve reducida a cero, el personaje queda reducido a una carcasa sin mente.
+INT es una medida de la capacidad cognitiva. Quienes tienen una baja puntuación de INT no son necesariamente estúpidos, pero probablemente se verán limitados en como de creativamente pueden utilizar su ingenio. INT es un factor para calcular la [Iniciativa](0001_Characters.md?id=iniciativa). Si la INT se ve reducida a cero, el personaje queda reducido a una carcasa sin mente.
 
 #### Poder (POD)
 
-POD es una medida del alma, espíritu, fuerza interior o capacidad mágica del personaje. POD gobierna los [Puntos de Magia](0001_Characters.md?id=magic-points) y los [Puntos de Suerte](0001_Characters.md?id=luck-points). Si el POD de un personaje llega a caer a cero, pierde por completo el libre albedrío.
+POD es una medida del alma, espíritu, fuerza interior o capacidad mágica del personaje. POD gobierna los [Puntos de Magia](0001_Characters.md?id=puntos-de-magia) y los [Puntos de Suerte](0001_Characters.md?id=puntos-de-suerte). Si el POD de un personaje llega a caer a cero, pierde por completo el libre albedrío.
 
 #### Carisma (CAR)
 
-CAR mide la personalidad y es independiente de la apariencia física. CAR afecta al [Modificador de Experiencia](0001_Characters.md?id=experience-modifier) del personaje. Si CAR llega a cero, el personaje no puede interactuar socialmente con otros, volviéndose dolorosamente tímido o antisocial hasta el punto de ser ignorado o incluso expulsado.
+CAR mide la personalidad y es independiente de la apariencia física. CAR afecta al [Modificador de Experiencia](0001_Characters.md?id=modificador-de-experiencia) del personaje. Si CAR llega a cero, el personaje no puede interactuar socialmente con otros, volviéndose dolorosamente tímido o antisocial hasta el punto de ser ignorado o incluso expulsado.
 
 ---
 ### Generación de Características
 
-Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
+Cada característica tiene un valor numérico para determinar lo potente que es. El número en paréntesis después de cada tirada de dados es el promedio racial y se utiliza para valorar tus resultados cuando se compara con otros miembros de esa especie. A continuación se presentan algunas sugerencias para determinar tus Características:
 
-- **Dice Roll:** Roll the dice indicated in the Racial Characteristics Table for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
-- **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
-- **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
-- **Points Build:** Instead of rolling dice to determine Characteristics, players build their character from a preset pool of points, the amount of which is determined by the character's species. This method is best for groups that know what they want to play and want to tailor their build to a specific Class. Certain rules apply to the Points Build option:
-  - Begin with the racial average for each of the seven Characteristics as noted in parentheses after each dice range below.
-  - Spend another 10 points (humans) or 6 points (demi-humans) to increase Characteristics.
-  - You may also lower a Characteristic to gain extra points. For example, reduce STR 11 to 9 to gain 2 points.
-  - Characteristics cannot be _lower_ than the minimum possible or _greater_ than maximum possible for that Characteristic as determined by its potential dice roll.
+- **Tirar los dados:** Tira los dados indicados en la Tabla de Características Raciales para la FUE, CON, TAM, DES, INT, POD y CAR apuntando cada puntuación en orden. Puesto que los resultados de estas tiradas pueden ser en cierta medida aleatorios, a menudo es mejor decidir el concepto de un personaje después de tirar los dados. De otra forma, las Características finales pueden complicar un rol preconcebido. Tira 3d6 para la FUE, CON, DES, POD y CAR; luego tira 2d6+6 para el TAM e INT.
+- **Asignación de tiradas:** Como antes, excepto que el jugador puede intercambiar los valores entre las Características generadas con el mismo número de dados. Por ejemplo, cuando haces las tiradas para un humano, el jugador puede intercambiar los valores entre FUE, CON, DES, POD y CAR, puesto que todas se generan con 3d6, o entre TAM e INT, que se generan con 2d6+6; aunque siempre deben ser del mismo grupo, no puedes intercambiar tiradas de un grupo a otro.
+- **Tirar los dados, al alza:** Tira un dado adicional a los indicados para FUE, CON, TAM, DES, INT, POD y CAR descartando el resultado más bajo.
+- **Construcción por puntos:** En lugar de tirar los dados para determinar las Características, los jugadores construyen sus personajes a partir de una reserva preestablecida de puntos, estando la cantidad determinada por la especie del personaje. Este método es el mejor para los grupos que saben que quieren jugar y quieren ajustar su creación a una Clase específica. Se aplican algunas reglas a la opción de Construcción por puntos:
+  - Comienza con la media racial para cada una de las siete Características tal y como se indica entre paréntesis después de cada tipo de tirada más adelante.
+  - Gasta otros 10 puntos (humanos) o 6 puntos (semi-humanos) para incrementar las Características.
+  - Puedes reducir una Características para obtener puntos adicionales. Por ejemplo, reducir FUE 11 a 9 para obtener 2 puntos.
+  - Las Características no pueden ser _inferiores_ al valor mínimo, ni _superiores_ al valor máximo posible en una tirada.
 
-Games Masters are free to come up with their own methods or point values as desired.
+Los Directores de Juego son libres de utilizar sus propios métodos o valores de puntos según deseen.
 
-The following table summarizes the information needed for each of the above methods. The dice ranges are used in either of the Dice Roll methods, while numbers in parentheses are used in Points Build.
+La siguiente tabla resume la información necesaria para cada uno de los métodos anteriores. Los grupos de dados se utilizan en cualquiera de los métodos de Tirar los dados, mientras que los números entre paréntesis se utilizan en el método de Construcción por puntos.
 
 ##### Racial Characteristics Table
 
-| **Race** | **Dwarf** | **Elf** | **Gnome** |
+| **Raza** | **Enano** | **Elfo** | **Gnomo** |
 | --- | --- | --- | --- |
-| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| FUE | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
 | CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| TAM | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| DES | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
 | INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
-| CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
+| POD | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| CAR | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| **Race** | **Half-Elf** | **Half-Orc** | **Halfling** | **Human** |
+| **Raza** | **Medio-Elfo** | **Medio-Orco** | **Halfling** | **Humano** |
 | --- | --- | --- | --- | --- |
-| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| FUE | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
 | CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| TAM | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| DES | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
 | INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+| POD | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| CAR | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
 ## Paso 3: Atributos
