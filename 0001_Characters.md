@@ -35,31 +35,31 @@ Antes de calcular las Características, la siguiente sección explica lo que rep
 
 #### Fuerza (FUE)
 
-FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md#modificador-de-daño) (ver la sección de [Atributos](0001_Characters.md?id=paso-3-atributos) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
+FUE representa la fortaleza física; cuánto peso puede levantar alguien, lo duro que puede golpear, etc. FUE es un componente del [Modificador de Daño](0001_Characters.md#modificador-de-daño) (ver la sección de [Atributos](0001_Characters.md#paso-3-atributos) más adelante). Si un personaje ve reducida a cero su FUE pierde la capacidad de moverse o levantar objetos.
 
 #### Constitución (CON)
 
-CON es una medida de la salud y la resistencia. CON es un componente para determinar los [Puntos de Golpe](0001_Characters.md?id=hit-points) y el [Ritmo de Curación](0001_Characters.md?id=ritmo-de-curacion) (ver más adelante). Si CON llega a cero por alguna razón, el personaje muere.
+CON es una medida de la salud y la resistencia. CON es un componente para determinar los [Puntos de Golpe](0001_Characters.md#puntos-de-golpe) y el [Ritmo de Curación](0001_Characters.md#ritmo-de-curación) (ver más adelante). Si CON llega a cero por alguna razón, el personaje muere.
 
 #### Tamaño (TAM)
 
-TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md?id=puntos-de-golpe), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
+TAM es una medida de la masa corporal, ayuda a determinar la altura y el peso. El TAM se utiliza para ayudar a determinar los [Puntos de Golpe](0001_Characters.md#puntos-de-golpe), cuanto más grandes y pesadas tienden a ser las criaturas, mayor suele ser su resistencia al daño. TAM también puede utilizarse para determinar el Modificador de Daño de un personaje, puesto que la masa ayuda a incrementar la fuerza de un golpe.
 
 #### Destreza (DES)
 
-Agilidad, equilibrio y reflejos se miden con la DES. Es un aspecto importante de la [Iniciativa](0001_Characters.md?id=iniciativa). Si la DES de un personaje queda reducida a cero sufre una parálisis funcional.
+Agilidad, equilibrio y reflejos se miden con la DES. Es un aspecto importante de la [Iniciativa](0001_Characters.md#iniciativa). Si la DES de un personaje queda reducida a cero sufre una parálisis funcional.
 
 #### Inteligencia (INT)
 
-INT es una medida de la capacidad cognitiva. Quienes tienen una baja puntuación de INT no son necesariamente estúpidos, pero probablemente se verán limitados en como de creativamente pueden utilizar su ingenio. INT es un factor para calcular la [Iniciativa](0001_Characters.md?id=iniciativa). Si la INT se ve reducida a cero, el personaje queda reducido a una carcasa sin mente.
+INT es una medida de la capacidad cognitiva. Quienes tienen una baja puntuación de INT no son necesariamente estúpidos, pero probablemente se verán limitados en como de creativamente pueden utilizar su ingenio. INT es un factor para calcular la [Iniciativa](0001_Characters.md#iniciativa). Si la INT se ve reducida a cero, el personaje queda reducido a una carcasa sin mente.
 
 #### Poder (POD)
 
-POD es una medida del alma, espíritu, fuerza interior o capacidad mágica del personaje. POD gobierna los [Puntos de Magia](0001_Characters.md?id=puntos-de-magia) y los [Puntos de Suerte](0001_Characters.md?id=puntos-de-suerte). Si el POD de un personaje llega a caer a cero, pierde por completo el libre albedrío.
+POD es una medida del alma, espíritu, fuerza interior o capacidad mágica del personaje. POD gobierna los [Puntos de Magia](0001_Characters.md#puntos-de-magia) y los [Puntos de Suerte](0001_Characters.md#puntos-de-suerte). Si el POD de un personaje llega a caer a cero, pierde por completo el libre albedrío.
 
 #### Carisma (CAR)
 
-CAR mide la personalidad y es independiente de la apariencia física. CAR afecta al [Modificador de Experiencia](0001_Characters.md?id=modificador-de-experiencia) del personaje. Si CAR llega a cero, el personaje no puede interactuar socialmente con otros, volviéndose dolorosamente tímido o antisocial hasta el punto de ser ignorado o incluso expulsado.
+CAR mide la personalidad y es independiente de la apariencia física. CAR afecta al [Modificador de Experiencia](0001_Characters.md#modificador-de-experiencia) del personaje. Si CAR llega a cero, el personaje no puede interactuar socialmente con otros, volviéndose dolorosamente tímido o antisocial hasta el punto de ser ignorado o incluso expulsado.
 
 ---
 ### Generación de Características
@@ -140,7 +140,7 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | 121–130 | +2d10+1d4 |
 | Cada 10 puntos | Continua la progresión |
 
-#### Experience Modifier
+#### Modificador de Experiencia
 
 Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
 
@@ -174,7 +174,7 @@ The moment at which someone reacts in combat is governed by Initiative. Initiati
 
 Initiative is the average of the DEX and INT Characteristics.
 
-#### Luck Points
+#### Puntos de Suerte
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
@@ -184,9 +184,9 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-##### Luck Points Table
+##### Tabla Puntos de Suerte
 
-| POD | Luck Points |
+| POD | Puntos de Suerte |
 | :-: | :-: |
 | 6 o menos | 1 |
 | 7-12 | 2 |
