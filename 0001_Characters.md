@@ -104,17 +104,17 @@ La siguiente tabla resume la información necesaria para cada uno de los método
 ---
 ## Paso 3: Atributos
 
-Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
+Cada personaje también tiene un conjunto de atributos. Estos son capacidades derivadas de las Características, o están determinadas por ellas, que se utilizan para dirigir ciertos factores de juego.
 
 #### Puntos de Acción
 
-How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
+Los Puntos de Acción determinan cuántas veces puede actuar un personaje durante un [Asalto de Combate](0008_Combat.md#asalto-de-combate). Los personajes iniciales comienzan con 2 Puntos de Acción, pero obtienen más a medida que mejoran. Consulta las Tablas de Mejora de Clases en [Clases](0003_Classes.md) para más detalles.
 
 #### Modificador de Daño
 
-The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+Es la cantidad de daño adicional que un personaje causa cuando golpea físicamente o apica la fuerza. Se utiliza en general en situaciones de combate, pero también puede utilizarse cuando se intenta romper objetos. El Modificador de Daño es un dado adicional que se añade o resta del daño causado por el arma o la herramienta. Si un Modificador de Daño negativo reduce el daño de un arma a cero o menos, entonces no se ha causado ningún daño.
 
-Add together STR and SIZ and consult the Damage Modifier table:
+Suma los valores de FUE y TAM y consulta la tabla de Modificador de Daño a continuación:
 
 ##### Tabla Modificador de Daño
 
@@ -142,9 +142,9 @@ Add together STR and SIZ and consult the Damage Modifier table:
 
 #### Modificador de Experiencia
 
-Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
+En el transcurso del juego, los personajes mejorarán sus Habilidades y capacidades. Esto se logra mediante el uso de Tiradas de Experiencia que se explican con más detalle en la sección del [Sistema de Juego](0007_Game_System.md#tiradas-de-experiencia).
 
-A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
+La puntuación de CAR de un personaje puede ajustar el número de Tiradas de Experiencia que recibe un personaje, reflejando la relación que tiene con sus iguales y su reputación dentro de la comunidad. Con un CAR elevado, la gente está dispuesta a ofrecerse para ayudar o apoyar al personaje mientras recibe instrucción. Por el contrario, con un valor especialmente bajo de CAR, puede encontrar algunas dificultades para mejorar las capacidades propias sin la ayuda de los demás; por ejemplo, le será difícil encontrar alguien con quién entrenar.
 
 ##### Tabla Modificador de Experiencia
 
@@ -157,7 +157,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 #### Ritmo de Curación
 
-After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
+Tras recibir heridas, un personaje necesita recuperarse. El Ritmo de Curación determina lo rápido que se recupera de las heridas de forma natural. Dependiendo de la gravedad de la herida (consulta la sección en [Daño y Heridas](0007_Game_System.md#daño-y-heridas)), el Ritmo de Curación indica cuantos Puntos de Golpe se recuperan al día, a la semana o al mes.
 
 ##### Tabla Ritmo de Curación
 
@@ -168,11 +168,11 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 | 13-18 | 3 |
 | Cada 6 puntos | +1 |
 
-#### Iniciativa
+#### Bonificador de Iniciativa
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
-Initiative is the average of the DEX and INT Characteristics.
+El Bonificador de Iniciativa es la media de las Características de DES e INT.
 
 #### Puntos de Suerte
 
@@ -219,24 +219,24 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 | Halfling | 15 | 4.5 |
 | Human | 20 | 6 |
 
-#### Hit Points
+#### Puntos de Golpe
 
-Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
+Los Puntos de Golpe representan cuánto daño puede sufrir un área del cuerpo antes de que quede inutilizada, resultando posiblemente en la incapacitación y, en última instancia, la muerte del personaje. El cuerpo de cada criatura está dividido en localizaciones separadas (los humanos, por ejemplo, tienen siete: cabeza, pecho, abdomen, brazos y piernas), cada una de las cuales tiene sus propios Puntos de Golpe.
 
-Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels).
+Algunas criaturas, como monstruos o distintas clases de animales, por su propia naturaleza tienen, a menudo, estructuras corporales radicalmente distintas, aún así cada localización posee Puntos de Golpe. Cuando los Puntos de Golpe de una localización quedan reducidos a cierto nivel debido a daños de cualquier tipo, el personaje sufre ciertas consecuencias que reflejan la gravedad de la herida. Para más información sobre las heridas consulta la sección de [Daño y Heridas](0007_Game_System.md#daño-y-heridas).
 
-To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
+Para calcular los Puntos de Golpe de cada localización, suma CON y TAM y cruza el resultado en la tabla de Puntos de Golpe a continuación. Todos los personajes reciben 1 Punto de Golpe adicional en los niveles 2 y 4.
 
-##### Hit Points per Location Table
+##### Puntos de Golpe por Localización
 
-| Location | CON+SIZ |  |  |  |  |  |  |  |  |
+| Localización | CON+TAM |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
-| Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Cabeza | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Pecho | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Each Arm | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Cada Brazo | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Cada Pierna | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 ---
 ## Step 4: Skills
