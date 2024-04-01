@@ -170,19 +170,19 @@ Tras recibir heridas, un personaje necesita recuperarse. El Ritmo de Curación d
 
 #### Bonificador de Iniciativa
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
+El momento en el que alguien reacciona en combate está regido por la Iniciativa. El Bonificador de Iniciativa actúa como un modificador a las tiradas de Iniciativa; cuanto más alta sea la Iniciativa, más rápido responde alguien en una situación de combate, determinando cuando puedes actuar. Otros factores (la armadura, por ejemplo) lo modifican. El capítulo de [Combate](0008_Combat.md?) se centra con más detalle en cómo se utiliza la [Iniciativa](0008_Combat.md#iniciativa).
 
 El Bonificador de Iniciativa es la media de las Características de DES e INT.
 
 #### Puntos de Suerte
 
-Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
+Los Puntos de Suerte representan la extraña fuerza que diferencia a los héroes aventureros de la gente común. Llámalo destino, karma o simplemente buena fortuna. Los Puntos de Suerte se pueden usar para:
 
-- Re-roll the dice if they are unfavorable.
-- Mitigate physical damage or other unfortunate circumstances.
-- Gain an edge at a vital moment in combat.
+- Repetir una tirada desfavorable.
+- Mitigar un daño físico u otra circunstancia desafortunada.
+- Obtener una ventaja vital en un momento del combate.
 
-Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
+Como y cuando se usan exactamente, se describe en la sección de [Usando Puntos de Suerte](0007_Game_System.md?id=usando-puntos-de-suerte). Una vez que se gasta un Punto de Suerte, la reserva disminuye; cuando se acaban los Puntos de Suerte, ya no hay más disponibles (a menos que el Director de Juego conceda alguno como recompensa) hasta la siguiente sesión de juego, cuando se restablecen a su valor normal.
 
 ##### Tabla Puntos de Suerte
 
@@ -193,31 +193,31 @@ Exactly how they are used, and when, is described in the section, [Using Luck Po
 | 13-18 | 3 |
 | Cada 6 puntos | +1 |
 
-_\* Humans start with one additional Luck Point over and above that shown above._
+_\* Los humanos comienzan con un Punto de Suerte adicional a los indicados anteriormente._
 
-_\*\* All characters gain an additional Luck Point as each new Rank is attained._
+_\*\* Todos los personajes reciben un Punto de Suerte a medida que alcanzan un nuevo Nivel._
 
 #### Puntos de Magia
 
-Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
+Las habilidades místicas, los poderes y hechizos utilizados en _Mythras Imperativo_ normalmente dependen de los Puntos de Magia. Puesto que la disponibilidad de la magia puede estar limitada por la ambientación de campaña o a profesiones mágicas concretas, algunos personajes encontrarán superfluo este Atributo.
 
-For those who can utilize such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points they have exhausted their ability to cast any spells until Magic Points are replenished.
+Para quienes pueden utilizar tales poderes, los Puntos de Magia del personaje son iguales a su POD. Estos puntos se utilizan para lanzar conjuros, el coste de los cuales depende del tipo de magia utilizada. Cuando el lanzador se queda sin Puntos de Magia ha agotado su capacidad para lanzar conjuros hasta que se repongan.
 
-#### Movement Rate
+#### Tasa de Movimiento
 
-Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
+Cada criatura tiene una Tasa de Movimiento, un número de metros que puede viajar en un periodo específico de tiempo. El Movimiento no se calcula a partir de las Características sino que es un valor por defecto que varía entre especies. La Tasa de Movimiento básica para los humanos es de 6 metros. La sección de [Movimiento](0008_Combat.md#movimiento) ofrece más detalles.
 
-##### Movement Rate by Race Table
+##### Tabla Tasa de Movimiento por Especie
 
-| Species | Feet | Metres |
+| Especie | Pies | Metros |
 | :-- | :-: | :-: |
-| Dwarf | 15 | 4.5 |
-| Elf | 20 | 6 |
-| Gnome | 15 | 4.5 |
-| Half-Elf | 20 | 6 |
-| Half-Orc | 20 | 6 |
+| Enano | 15 | 4.5 |
+| Elfo | 20 | 6 |
+| Gnomo | 15 | 4.5 |
+| Medio-elfo | 20 | 6 |
+| Medio-orco | 20 | 6 |
 | Halfling | 15 | 4.5 |
-| Human | 20 | 6 |
+| Humano | 20 | 6 |
 
 #### Puntos de Golpe
 
@@ -239,7 +239,7 @@ Para calcular los Puntos de Golpe de cada localización, suma CON y TAM y cruza 
 | Cada Pierna | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 ---
-## Step 4: Skills
+## Paso 4: Habilidades
 
 By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the [Skills](0005_Skills.md) chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
 
