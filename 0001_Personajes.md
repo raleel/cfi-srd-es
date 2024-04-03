@@ -245,7 +245,7 @@ Por defecto, cada personaje tiene un conjunto de Habilidades Básicas que le per
 
 El porcentaje inicial de cada Habilidad Básica está determinada por la suma de dos Características o el múltiplo de una única Característica. Ese valor representa la competencia innata del personaje en cada área, de hecho, su talento en bruto antes de recibir cualquier clase de entrenamiento como parte de su cultura y profesión.
 
-La tabla de Habilidades Básicas muestra como se calculan los porcentajes iniciales, junto con una breve descripción de que es y que hace la habilidad. La puntuación representa la posibilidad de éxito de una habilidad; de esta forma, una puntuación de Atletismo de 25 se expresa como 25%. Como funcionan los porcenatjes y descripciones más detalladas de las Habilidades se proporcionan en el capítulo de[Habilidades](0005_Habilidades.md) chapter.
+La tabla de Habilidades Básicas muestra como se calculan los porcentajes iniciales, junto con una breve descripción de que es y que hace la habilidad. La puntuación representa la posibilidad de éxito de una habilidad; de esta forma, una puntuación de Atletismo de 25 se expresa como 25%. Como funcionan los porcenatjes y descripciones más detalladas de las Habilidades se proporcionan en el capítulo de [Habilidades](0005_Habilidades.md) chapter.
 
 Ten en cuenta que los porcentajes iniciales de algunas habilidades se verán modificados por la cultura y la profesión, así que estos porcentajes iniciales cambiarán a medida que avanza la creación del personaje.
 
