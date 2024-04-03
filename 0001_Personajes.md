@@ -241,45 +241,45 @@ Para calcular los Puntos de Golpe de cada localización, suma CON y TAM y cruza 
 ---
 ## Paso 4: Habilidades
 
-By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the [Skills](0005_Skills.md) chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
+Por defecto, cada personaje tiene un conjunto de Habilidades Básicas que le permiten realizar una serie de acciones con varios grados de experiencia. Estas habilidades se detallan en el capítulo de [Habilidades](0005_Habilidades.md) aunque básicamente cubren un abanico de actividades diarias y conocimiento local que cualquiera puede utilizar sin un entrenamiento especializado. En este punto de la creación de personajes, los jugadores solo necesitarán conocer los porcentajes iniciales de cada Habilidad Básica.
 
-The basic score of each Standard Skill is determined by the sum of two Characteristics or a multiple of a single Characteristic. The value represents the character's innate competence in each area, in effect their raw talent before any formative training received as part of his culture and profession.
+El porcentaje inicial de cada Habilidad Básica está determinada por la suma de dos Características o el múltiplo de una única Característica. Ese valor representa la competencia innata del personaje en cada área, de hecho, su talento en bruto antes de recibir cualquier clase de entrenamiento como parte de su cultura y profesión.
 
-The Standard Skills Table shows how the basic values are calculated, along with a brief description of what the skill is and does. The score represents the percentage chance of success for a skill; so, an Athletics score of 25 is expressed as 25%. How skill percentages work and more detailed skill descriptions are provided in the [Skills](0005_Skills.md) chapter.
+La tabla de Habilidades Básicas muestra como se calculan los porcentajes iniciales, junto con una breve descripción de que es y que hace la habilidad. La puntuación representa la posibilidad de éxito de una habilidad; de esta forma, una puntuación de Atletismo de 25 se expresa como 25%. Como funcionan los porcenatjes y descripciones más detalladas de las Habilidades se proporcionan en el capítulo de[Habilidades](0005_Habilidades.md) chapter.
 
-Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
+Ten en cuenta que los porcentajes iniciales de algunas habilidades se verán modificados por la cultura y la profesión, así que estos porcentajes iniciales cambiarán a medida que avanza la creación del personaje.
 
-##### Standard Skills Table
+##### Tabla de Habilidades Básicas
 
-| Skill | Basic Percentage |
+| Habilidad | Porcentaje inicial |
 | :-- | :-: |
-| Athletics | STR+DEX |
-| Boating | STR+CON |
-| Brawn | STR+SIZ |
-| Conceal | DEX+POW |
-| Customs | INT x2, +40\* |
-| Dance | DEX+CHA |
-| Deceit | INT+CHA |
-| Drive | DEX+POW |
-| Endurance | CON x2 |
-| Evade | DEX x2 |
-| First Aid | INT+DEX |
-| Influence | CHA x2 |
-| Insight | INT+POW |
-| Locale | INT x2 |
-| Native Tongue | INT+CHA, +40\* |
-| Perception | INT+POW |
-| Ride | DEX+POW |
-| Sing | CHA+POW |
-| Stealth | DEX+INT |
-| Swim | STR+CON |
-| Unarmed | STR+DEX |
-| Willpower | POW x2 |
+| Aguante | CON x2 |
+| Atletismo | FUE+DES |
+| Bailar | DES+CAR |
+| Cantar | CAR+POD |
+| Conducir | DES+POD |
+| Conocimiento Local | INT x2 |
+| Costumbres | INT x2, +40* |
+| Engañar | INT+CAR |
+| Evadir | DES x2 |
+| Influencia | CAR x2 |
+| Lengua Materna | INT+CAR, +40* |
+| Manejo de botes | FUE+CON |
+| Montar | DES+POD |
+| Músculo | FUE+TAM |
+| Nadar | FUE+CON |
+| Ocultar | DES+POD |
+| Pelea | FUE+DES |
+| Percepción | INT+POD |
+| Perspicacia | INT+POD |
+| Primeros Auxilios | INT+DES |
+| Sigilo | DES+INT |
+| Voluntad | POD x2 |
 
-_\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans). Each demi-human race may speak the Common Tongue at +40%, in addition to their Native Tongue at +40%, as detailed in their respective write-ups._
+_\* Incluye un bonificador fijo de +40% tanto para Costumbres como para la Lengua Materna del personaje (Lengua común para los humanos). Cada raza semi-humanana puede hablar la Lengua Común con un +40%, además de su Lengua Materna a +40%, como se detalla en sus respectivos apartados._
 
 ---
-## Step 5: Race/Culture
+## Paso 5: Race/Culture
 
 In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
