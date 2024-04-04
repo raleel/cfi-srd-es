@@ -1,4 +1,4 @@
-# Chapter 2: Culture & Races
+# Capítulo 2: Cultura y Razas
 
 A description of each racial background follows incorporating a list of appropriate skill bonuses. Players choosing a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Standard Skills on their Character Sheet and add the additional new skills, known as Professional Skills (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
 
@@ -14,17 +14,17 @@ Humans can inhabit just about any location in a fantasy world and can have conta
 Of all the playable races, only humans choose a separate culture, which helps them to further define themselves. Note that each culture can be even more granular and can be altered to be very much region-specific. Demi-humans in comparison are less widespread, and as a result, their culture is more homogeneous and entirely subsumed under their race. The following information details the four types of human cultures.
 
 ---
-### Barbarian
+### Bárbaros
 
-Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half-tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
+Tribales por naturaleza, los bárbaros tienden a rechazar la civilización, considerando débiles y corruptos a quienes viven en pueblos grandes y ciudades. Aunque sus propios asentamientos también son sedentarios, tienden a ser mucho más pequeños y próximos a la naturaleza. Las tribus bárbaras ocupan distintos territorios, a menudo en tierras salvajes a medio domesticar que consideran propias a efectos de la caza, el pastoreo y el cultivo. La mayoría son duchos en el uso de las armas, ya que deben superar numerosos peligros a lo largo de sus vidas enfrentándose a criaturas salvajes o reuniéndose para defender sus tierras de las tribus rivales. Al vivir en comunidades pequeñas, los vínculos de parentesco y del clan son elementos importantes de su sociedad.
 
-#### Skills
+#### Habilidades
 
-- **Free Skills:** Customs +40, Language (Common) +40
-- **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride
-- **Professional Skills:** Craft (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
+- **Habilidades gratuitas:** Costumbres +40, Idioma (Lengua común) +40
+- **Habilidades básicas:** Aguante, Atletismo, Conocimiento Local, Músculo, Percepción, Primeros Auxilios; o bien Manejo de botes o Montar. Además el jugador también puede escoger un Estilo de Combate cultural.
+- **Habilidades Profesionales:** Artesanía (cualquiera), Curación, Música, Navegación, Orientación, Rastrear, Saber (cualquiera), Supervivencia.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificarlo._
 
 #### Alignment and Passions
 
