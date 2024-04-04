@@ -199,7 +199,7 @@ _\*\* Todos los personajes reciben un Punto de Suerte a medida que alcanzan un n
 
 #### Puntos de Magia
 
-Las habilidades místicas, los poderes y hechizos utilizados en _Mythras Imperativo_ normalmente dependen de los Puntos de Magia. Puesto que la disponibilidad de la magia puede estar limitada por la ambientación de campaña o a profesiones mágicas concretas, algunos personajes encontrarán superfluo este Atributo.
+Las habilidades místicas, los poderes y hechizos utilizados en _Fantasía Clásica Imperativo_ normalmente dependen de los Puntos de Magia. Puesto que la disponibilidad de la magia puede estar limitada por la ambientación de campaña o a profesiones mágicas concretas, algunos personajes encontrarán superfluo este Atributo.
 
 Para quienes pueden utilizar tales poderes, los Puntos de Magia del personaje son iguales a su POD. Estos puntos se utilizan para lanzar conjuros, el coste de los cuales depende del tipo de magia utilizada. Cuando el lanzador se queda sin Puntos de Magia ha agotado su capacidad para lanzar conjuros hasta que se repongan.
 
@@ -279,9 +279,9 @@ Ten en cuenta que los porcentajes iniciales de algunas habilidades se verán mod
 _\* Incluye un bonificador fijo de +40% tanto para Costumbres como para la Lengua Materna del personaje (Lengua común para los humanos). Cada raza semi-humanana puede hablar la Lengua Común con un +40%, además de su Lengua Materna a +40%, como se detalla en sus respectivos apartados._
 
 ---
-## Paso 5: Race/Culture
+## Paso 5: Raza/Cultura
 
-In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
+En _Fantasía Clásica Imperativo_, normalmente los jugadores escogerán una de las seis razas disponibles para sus personajes: Humanos o una de las razas semi-humanas (Enanos, Elfos, Gnomos, medio-Elfos, Medio-Orcos, o Halflings). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
 All characters have an Alignment, which consists of one Ethical and one Moral Code, as well as two or three Passions. Some will have an Oath to a religious order, guild, or organization. Each Class write-up notes any required Alignment or Oaths. Before continuing, look up your race in [Chapter 2](0002_Culture_and_Races.md) and note the suggested Alignment and Passions, and check the [Classes](0003_Classes.md) section and see if there are any Alignment or Oath requirements. See [Chapter 4, Alignment & Passions](0004_Alignment_and_Passions.md) to determine any specifics regarding your Alignment, Passions, and Oaths, if any.
 
@@ -295,9 +295,9 @@ Chosen Professional Skills start off at their Base Level Characteristic value as
 
 Quick Picks provide an average selection of skills, enabling quick character creation. Feel free to swap points, if desired; however, no skill can have fewer than a +5 or more than a +15 bonus.
 
-##### Racial Quick Picks Table
+##### Tabla de elección rápida racial
 
-| Race/Culture | Standard Skills | Professional Skills |
+| Raza/Cultura | Habilidades Básicas | Habilidades Profesionales |
 | :-- | :-- | :-- |
 | Human (Barbarian, Warrior Type) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
 | Human (Barbarian, Wise Person) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
@@ -316,9 +316,9 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 | Half-Orc (Raised as Human) | Select an appropriate Human Quick Pick |
 | Halfling | Dance or Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (any) +10, Musicianship +5, Streetwise +10 |
 
-_\* Humans are not limited in the selection of languages during character creation if they can justify the choice._
+_\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificarlo._
 
-_\*\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
+_\*\* Durante la creación de personaje, los idiomas adicionales están limitados para los gnomos, halflings, goblins, hobgoblins, orcos y gnoll._
 
 
 ### Racial Skill Point Buy
@@ -329,7 +329,7 @@ Optionally, you may spend points to customize a specific character concept. This
 - Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
 ---
-## Step 6: Class
+## Paso 6: Clase
 
 Class represents the career the character has embarked on as part of the transition to adulthood, and it further defines the character's skill development.
 
