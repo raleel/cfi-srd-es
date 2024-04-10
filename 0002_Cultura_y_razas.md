@@ -1,6 +1,6 @@
 # Capítulo 2: Cultura y Razas
 
-A description of each racial background follows incorporating a list of appropriate skill bonuses. Players choosing a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Standard Skills on their Character Sheet and add the additional new skills, known as Professional Skills (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
+A description of each racial background follows incorporating a list of appropriate skill bonuses. Players choosing a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Habilidades Básicas on their Character Sheet and add the additional new skills, known as Habilidades Profesionales (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
 
 Also note that each race comes with a typical Alignment and several Passions (see [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md)). Alignment and Passions can add a great deal of depth and characterization to the adventurer you are creating, defining ingrained preferences and prejudices as well as defining the character's moral values.
 
@@ -43,15 +43,15 @@ _\* Los humanos no están limitados en la elección de idiomas durante la creaci
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
-### Civilized
+### Civilizada
 
-The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tomes, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
+La cultura civilizada se resume en una apariencia de ley y orden, sustentadas por unos códigos sociales complejos y respaldada por la burocracia. Las personas civilizadas se creen superiores a todas las demás culturas porque sus logros tienden a permanecer: ciudades en expansión, templos imponentes, monumentos conmemorativos y el registro de la historia y los acontecimientos en libros, tomos y pergaminos. Por supuesto esto no es más que una endeble fachada. La ciudad más civilizada puede ser anárquica que cualquier asentamiento fronterizo bárbaro y sus códigos sociales pueden ser más toscos que los rituales de hospitalidad de los nómadas. Pero la cultura civilizada se muestra orgullosa de sus logros, su infraestructura, sus artesanos profesionales y su capacidad para extenderse con facilidad hasta donde desee.
 
-####  Skills
+####  Habilidades
 
-- **Free Skills:** Customs +40, Language (Common) +40
-- **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Lengua común) +40
+- **Habilidades Básicas:** Conducir, Conocimiento Local, Engañar, Influencia, Perspicacia, Ocultar, Voluntad.
+- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -76,9 +76,9 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 
 ####  Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40.
-- **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
-- **Professional Skills:** Craft (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40.
+- **Habilidades Básicas:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
+- **Habilidades Profesionales:** Craft (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -106,9 +106,9 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 ####  Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40.
-- **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-- **Professional Skills:** Craft (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40.
+- **Habilidades Básicas:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
+- **Habilidades Profesionales:** Craft (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
 
 _\* Humans are not limited in selection of languages during character creation if they can justify the choice._
 
@@ -151,9 +151,9 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Dwarf) +40
-- **Standard Skills:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
-- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Dwarf) +40
+- **Habilidades Básicas:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
+- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc._
 
@@ -190,9 +190,9 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-- **Standard Skills:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Elf) +40
+- **Habilidades Básicas:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
+- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
@@ -226,9 +226,9 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Gnome) +40
-- **Standard Skills:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Gnome) +40
+- **Habilidades Básicas:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
+- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold._
 
@@ -264,9 +264,9 @@ Half-elves have no communities of their own but can be found living wherever hum
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-- **Standard Skills:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Elf) +40
+- **Habilidades Básicas:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
+- **Habilidades Profesionales:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language._
 
@@ -303,9 +303,9 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Orc) +40.
-- **Standard Skills:** Choose from a human culture or from the following orc skill list: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating, Evade, or Ride.
-- **Professional Skills:** Choose from a human culture or from the following orc skill list: Craft (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Orc) +40.
+- **Habilidades Básicas:** Choose from a human culture or from the following orc skill list: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating, Evade, or Ride.
+- **Habilidades Profesionales:** Choose from a human culture or from the following orc skill list: Craft (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
 
 _\* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice._
 
@@ -348,9 +348,9 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Halfling) +40
-- **Standard Skills:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Halfling) +40
+- **Habilidades Básicas:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
+- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
 
 _\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc._
 
