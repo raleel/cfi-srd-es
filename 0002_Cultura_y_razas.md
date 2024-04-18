@@ -5,11 +5,11 @@ A description of each racial background follows incorporating a list of appropri
 Also note that each race comes with a typical Alignment and several Passions (see [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md)). Alignment and Passions can add a great deal of depth and characterization to the adventurer you are creating, defining ingrained preferences and prejudices as well as defining the character's moral values.
 
 ---
-## Humans
+## Humanos
 
 Humans can inhabit just about any location in a fantasy world and can have contact with any and every species at one point or another. Some of the demi-human and humanoid races look upon humans as their staunchest of allies; others view them as the most vindictive of enemies. They can reach ages close to 100 years, sometimes even exceeding it, though rarely naturally. Humans tend to be fast learners and are more adaptive to change than any of the other races. Many believe that humans are the chosen race of the gods, a belief that is not without some merit, as the demi-human races seem to be on the decline in comparison to humans. Of course, some demi-human races attribute this to the voracious nature of human expansion.
 
-### Human Culture
+### Cultura Humana
 
 Of all the playable races, only humans choose a separate culture, which helps them to further define themselves. Note that each culture can be even more granular and can be altered to be very much region-specific. Demi-humans in comparison are less widespread, and as a result, their culture is more homogeneous and entirely subsumed under their race. The following information details the four types of human cultures.
 
@@ -20,27 +20,27 @@ Tribales por naturaleza, los bárbaros tienden a rechazar la civilización, cons
 
 #### Habilidades
 
-- **Habilidades gratuitas:** Costumbres +40, Idioma (Lengua común) +40
+- **Habilidades gratuitas:** Costumbres +40, Idioma (Lengua común) +40.
 - **Habilidades básicas:** Aguante, Atletismo, Conocimiento Local, Músculo, Percepción, Primeros Auxilios; o bien Manejo de botes o Montar. Además el jugador también puede escoger un Estilo de Combate cultural.
 - **Habilidades Profesionales:** Artesanía (cualquiera), Curación, Música, Navegación, Orientación, Rastrear, Saber (cualquiera), Supervivencia.
 
 _\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificarlo._
 
-#### Alignment and Passions
+#### Alineamiento y Pasiones
 
-- **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Other Passion:** Any, but typically one or two from the following:
+- **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
+- **Otras Pasiones:** Any, but typically one or two from the following:
   - Loyalty to Clan Chieftain
   - Love (friend, sibling, or romantic lover)
   - Hate (magic, creature, rival, or clan)
 
-#### Special Rules
+#### Reglas Especiales
 
 - **Movement:** 20 feet.
 - **Survival Bonus (Specific):** Barbarians find all Survival rolls pertaining to their area of origin one grade easier.
 - **Exposure Tolerance:** Barbarians suffer reduced effects from exposure to temperature extremes related to their area of origin. For example, if originating from cold climates, even lightly outfitted barbarians would be permitted a grace period equal to their CON in hours before exposure sets in. Wearing suitable clothing would extend this to double their CON in hours. After this point they need to seek shelter or start to suffer Fatigue loss. See the Weather Tables on page XX for additional information.
 - **Illiterate:** Barbarians are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level.
-- **Lucky:** Humans start with one additional Luck Point.
+- **Lucky:** Los humanos comienzan con un Punto de Suerte adicional.
 
 ---
 ### Civilizada
@@ -49,38 +49,38 @@ La cultura civilizada se resume en una apariencia de ley y orden, sustentadas po
 
 ####  Habilidades
 
-- **Habilidades Gratuitas:** Costumbres +40, Idioma (Lengua común) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Lengua común) +40.
 - **Habilidades Básicas:** Conducir, Conocimiento Local, Engañar, Influencia, Perspicacia, Ocultar, Voluntad.
-- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Habilidades Profesionales:** Arte (Cualquiera), Comerciar, Artesanía (Cualquiera), Cortesía, Idioma (Cualquiera\*), Saber (Cualquiera), Música, Callejeo.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificar la elección._
 
-####  Alignment and Passions
+####  Alineamiento y Pasiones
 
-- **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Passion:** Any, but typically one or two from the following:
-  - Loyalty to Town/City
-  - Love (friend, sibling, or romantic lover)
-  - Hate (rival, gang, district, or city)
+- **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
+- **Pasión:** Cualquiera, pero habitualmente una o dos de las siguientes:
+  - Lealtad a Pueblo/Ciudad
+  - Amor (amigo, fraternal o romántico)
+  - Odio (rival, banda, distrito o ciudad)
 
-####  Special Rules
+####  Reglas especiales
 
 - **Movement:** 20 feet.
 - **Literate:** Those from Civilized regions are typically able to read and write any language they can speak.
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
-### Nomadic
+### Nómada
 
-Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
+Los pueblos nómadas están constantemente en movimiento, sin un lugar que llamar propio. Pueden vagar sin rumbo o pueden trasladarse entre varios campamentos a lo largo del año. Apenas cultivan y en su lugar siguen las migraciones de los animales o los peces, pastoreando quizás sus propias bestias domesticadas. Los nómadas son expertos subsistiendo con lo poco que pueden obtener de forma rápida y fácil de su entorno, sin dejar que nada se eche a perder. Las habilidades de la cultura nómada deberían adaptarse a su entorno. ALgunos viajan grandes distancias a pie, otros viven en caravanas o montan extrañas criaturas, y otros flotan a la deriva sobre grandes balsas por los océanos.
 
-####  Skills
+####  Habilidades
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40.
-- **Habilidades Básicas:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
-- **Habilidades Profesionales:** Craft (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Común) +40.
+- **Habilidades Básicas:** Aguante, Conocimiento Local, Percepción, Primeros Auxilios, Sigilo; y dos de las siguientes: Atletismo, Conducir, Manejo de botes, Montar o Nadar dependiendo del modo de viaje principal. 
+- **Habilidades Profesionales:** Artesanía (Cualquiera), Cultura (Cualquiera), Idioma (Cualquiera\*), Música, Orientación, Rastrear, Saber (Cualquiera), Supervivencia.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificar la elección._
 
 ####  Alignment and Passions
 
@@ -106,11 +106,11 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 ####  Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40.
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40.
 - **Habilidades Básicas:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-- **Habilidades Profesionales:** Craft (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
+- **Habilidades Profesionales:** Craft (any), Healing, Lore (any), Idioma (any\*), Musicianship, Navigate, Survival, Track.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificar la elección._
 
 ####  Alignment and Passions
 
@@ -151,9 +151,9 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Dwarf) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Dwarf) +40
 - **Habilidades Básicas:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
-- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Idioma (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc._
 
@@ -190,9 +190,9 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Elf) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Elf) +40
 - **Habilidades Básicas:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Idioma (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
@@ -226,9 +226,9 @@ Gnomish culture is a clannish society that spends much of its time mining and cr
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Gnome) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Gnome) +40
 - **Habilidades Básicas:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Habilidades Profesionales:** Commerce, Craft (any), Engineering, Idioma (any\*), Lore (any), Mechanisms, Oratory, Survival.
 
 _\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold._
 
@@ -264,9 +264,9 @@ Half-elves have no communities of their own but can be found living wherever hum
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Elf) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Elf) +40
 - **Habilidades Básicas:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Habilidades Profesionales:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Habilidades Profesionales:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Idioma (any\*), Lore (any), Musicianship, Survival.
 
 _\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language._
 
@@ -303,7 +303,7 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Orc) +40.
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Orc) +40.
 - **Habilidades Básicas:** Choose from a human culture or from the following orc skill list: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating, Evade, or Ride.
 - **Habilidades Profesionales:** Choose from a human culture or from the following orc skill list: Craft (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
 
@@ -348,9 +348,9 @@ Halfling culture is akin to Civilized. They live in small communities called shi
 
 #### Skills
 
-- **Habilidades Gratuitas:** Customs +40, Language (Common) +40, Language (Halfling) +40
+- **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40, Idioma (Halfling) +40
 - **Habilidades Básicas:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Habilidades Profesionales:** Art (any), Commerce, Craft (any), Courtesy, Idioma (any\*), Lore (any), Musicianship, Streetwise.
 
 _\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc._
 
