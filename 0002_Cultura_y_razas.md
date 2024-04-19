@@ -1,8 +1,8 @@
 # Capítulo 2: Cultura y Razas
 
-A description of each racial background follows incorporating a list of appropriate skill bonuses. Players choosing a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Habilidades Básicas on their Character Sheet and add the additional new skills, known as Habilidades Profesionales (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
+A continuación, se incluye una descripción de cada trasfondo racial incorporando una lista de bonificaciones a las habilidades apropiadas. Los jugadores que escojan un personaje humano necesitan definir aún más su personaje con una cultura adecuada. Los jugadores pueden aplicar las bonificaciones de habilidad inmediatamente a sus Habilidades Básicas en sus hojas de personaje y añadir las nuevas habilidades, conocidas como Habilidades Profesionales (que se incluirán en el siguiente capítulo), en el apartado adecuado de la ficha. En muchos casos una especie incluye una serie de habilidades e invita al jugador a escoger una o más, que proporcionará una bonificación: de esta forma los jugadores con iguales trasfondos raciales pueden asegurarse de que sus aventureros sean diferentes en las áreas en que se desarrollan.
 
-Also note that each race comes with a typical Alignment and several Passions (see [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md)). Alignment and Passions can add a great deal of depth and characterization to the adventurer you are creating, defining ingrained preferences and prejudices as well as defining the character's moral values.
+El Alineamiento y las Pasiones pueden añadir una gran profundidad y caracterización al aventurero que estás creando, definiendo preferencias y prejuicios arraigados, además de definir los valores morales del personaje (ver [Capítulo 4: Alineamiento y Pasiones](0004_Alineamiento_y_Pasiones.md)). El Alineamiento y las Pasiones pueden añadir una gran profundidad y caracterización al aventurero que estás creando, definiendo preferencias y prejuicios arraigados, además de definir los valores morales del personaje.
 
 ---
 ## Humanos
@@ -11,7 +11,7 @@ Humans can inhabit just about any location in a fantasy world and can have conta
 
 ### Cultura Humana
 
-Of all the playable races, only humans choose a separate culture, which helps them to further define themselves. Note that each culture can be even more granular and can be altered to be very much region-specific. Demi-humans in comparison are less widespread, and as a result, their culture is more homogeneous and entirely subsumed under their race. The following information details the four types of human cultures.
+De todas las razas jugables, solo los humanos eligen una cultura, lo que les ayuda a definirse mejor. Ten en cuenta que cada cultura podría ser aún más granular y podría modificarse para que sea mucho más específica de una región. En comparación, los semi-humanos están mucho menos extendidos y, en consecuencia, su cultura es más homogénea y está completamente incluida en su especie. La información a continuación detalla los cuatro tipos de culturas humanas.
 
 ---
 ### Bárbaros
@@ -29,7 +29,7 @@ _\* Los humanos no están limitados en la elección de idiomas durante la creaci
 #### Alineamiento y Pasiones
 
 - **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Otras Pasiones:** Any, but typically one or two from the following:
+- **Otras Pasiones:** Cualquiera, pero normalmente una o dos de las siguientes:
   - Loyalty to Clan Chieftain
   - Love (friend, sibling, or romantic lover)
   - Hate (magic, creature, rival, or clan)
@@ -58,7 +58,7 @@ _\* Los humanos no están limitados en la elección de idiomas durante la creaci
 ####  Alineamiento y Pasiones
 
 - **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Pasión:** Cualquiera, pero habitualmente una o dos de las siguientes:
+- **Pasión:** Cualquiera, pero normalmente una o dos de las siguientes:
   - Lealtad a Pueblo/Ciudad
   - Amor (amigo, fraternal o romántico)
   - Odio (rival, banda, distrito o ciudad)
@@ -82,15 +82,15 @@ Los pueblos nómadas están constantemente en movimiento, sin un lugar que llama
 
 _\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificar la elección._
 
-####  Alignment and Passions
+####  Alineamiento y Pasiones
 
-- **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Passion:** Any, but typically one or two from the following:
+- **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
+- **Pasión:** Cualquiera, pero normalmente una o dos de las siguientes:
   - Loyalty to Tribal Chieftain/Khan
   - Love (friend, sibling, or romantic lover)
   - Hate (creature, rival, or tribe)
 
-####  Special Rules
+####  Reglas especiales
 
 - **Movement:** 20 feet.
 - **Survival Bonus (Specific):** Nomads find all Survival rolls pertaining to their area of origin one grade easier.
@@ -98,24 +98,25 @@ _\* Los humanos no están limitados en la elección de idiomas durante la creaci
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
-### Primitive
+### Primitiva
 
-Of all peoples, primitives are those that live closest with the land, in tune with its hidden secrets. Living in extended family groups, primitive cultures gather around very simple dwellings that can range from caves and areas of natural shelter through to lean-tos or very basic huts. Primitives are typically hunter-gatherers with either few, or poorly developed, systems for farming and husbandry.
+De todos los pueblos, los primitivos son los que viven más cerca de la tierra, en sintonía con sus secretos ocultos. Viven en amplios grupos familiares, las culturas primitivas suelen reunirse en torno a viviendas muy simples que pueden abarcar desde cuevas y zonas de abrigo natural a cobertizos o chozas muy rudimentarias. Los primitivos normalmente son cazadores-recolectores con sistemas agrícolas y de cría de animales escasos o poco desarrollados.
 
-However, certain cultural beliefs, often based on superstitions, can be very well defined. Few primitive cultures have developed anything approaching a written language although paintings and other pictorial symbols serve as a means of communication.
+Sin embargo, ciertas creencias culturales, a menudo basadas en supersticiones, pueden estar muy bien definidas. Pocas culturas primitivas han desarrollado algo que se aproxime a un lenguaje escrito aunque las pinturas y otros símbolos pictóricos sirven como medios de comunicación.
 
-####  Skills
+####  Habilidades
 
 - **Habilidades Gratuitas:** Costumbres +40, Idioma (Common) +40.
-- **Habilidades Básicas:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-- **Habilidades Profesionales:** Craft (any), Healing, Lore (any), Idioma (any\*), Musicianship, Navigate, Survival, Track.
+- **Habilidades Básicas:** Aguante, Conocimiento Local, Evadir, Músculo, Percepción, Sigilo; y una a elegir entre Atletismo, Manejo de Botes o Nadar.
+- **Habilidades Profesionales:** Artesanía (Cualquiera), Curación, Idioma (cualquiera\*) Música, Orientación, Rastrear, Saber (Cualquiera), Supervivencia
+
 
 _\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificar la elección._
 
-####  Alignment and Passions
+####  Alineamiento y Pasiones
 
-- **Alignment:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
-- **Passion:** Any, but typically one or two from the following:
+- **Alineamiento:** Any, choose one or two from an Ethical Code (Lawful, Neutral, or Chaotic), and one or two from a Moral Code (Good, Neutral, or Evil). Alternately, choose one or two from True Neutral.
+- **Pasión:** Cualquiera, pero normalmente una o dos de las siguientes:
   - Loyalty to Chief/Headman
   - Love (friend, sibling, or romantic lover)
   - Hate (something that scares or intimidates you)
