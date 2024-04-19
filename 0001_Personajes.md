@@ -6,7 +6,7 @@ La base del personaje se define mediante una serie de elementos que describen la
 - Atributos: Cosas como la Altura o el Movimiento.
 - Habilidades: Competencia en capacidades fundamentales.
 
-La mayoría de estos elementos se describen en valores numéricos, y algunos dependen o se calculan a partir de otros. En las siguientes secciones se describe lo que significa cada uno y cómo se determinan.
+La mayoría de estos elementos se describen en vaSabers numéricos, y algunos dependen o se calculan a partir de otros. En las siguientes secciones se describe lo que significa cada uno y cómo se determinan.
 
 ---
 ## Paso 1: Concepto del Personaje
@@ -67,7 +67,7 @@ CAR mide la personalidad y es independiente de la apariencia física. CAR afecta
 Cada característica tiene un valor numérico para determinar lo potente que es. El número en paréntesis después de cada tirada de dados es el promedio racial y se utiliza para valorar tus resultados cuando se compara con otros miembros de esa especie. A continuación se presentan algunas sugerencias para determinar tus Características:
 
 - **Tirar los dados:** Tira los dados indicados en la Tabla de Características Raciales para la FUE, CON, TAM, DES, INT, POD y CAR apuntando cada puntuación en orden. Puesto que los resultados de estas tiradas pueden ser en cierta medida aleatorios, a menudo es mejor decidir el concepto de un personaje después de tirar los dados. De otra forma, las Características finales pueden complicar un rol preconcebido. Tira 3d6 para la FUE, CON, DES, POD y CAR; luego tira 2d6+6 para el TAM e INT.
-- **Asignación de tiradas:** Como antes, excepto que el jugador puede intercambiar los valores entre las Características generadas con el mismo número de dados. Por ejemplo, cuando haces las tiradas para un humano, el jugador puede intercambiar los valores entre FUE, CON, DES, POD y CAR, puesto que todas se generan con 3d6, o entre TAM e INT, que se generan con 2d6+6; aunque siempre deben ser del mismo grupo, no puedes intercambiar tiradas de un grupo a otro.
+- **Asignación de tiradas:** Como antes, excepto que el jugador puede intercambiar los vaSabers entre las Características generadas con el mismo número de dados. Por ejemplo, cuando haces las tiradas para un humano, el jugador puede intercambiar los vaSabers entre FUE, CON, DES, POD y CAR, puesto que todas se generan con 3d6, o entre TAM e INT, que se generan con 2d6+6; aunque siempre deben ser del mismo grupo, no puedes intercambiar tiradas de un grupo a otro.
 - **Tirar los dados, al alza:** Tira un dado adicional a los indicados para FUE, CON, TAM, DES, INT, POD y CAR descartando el resultado más bajo.
 - **Construcción por puntos:** En lugar de tirar los dados para determinar las Características, los jugadores construyen sus personajes a partir de una reserva preestablecida de puntos, estando la cantidad determinada por la especie del personaje. Este método es el mejor para los grupos que saben que quieren jugar y quieren ajustar su creación a una Clase específica. Se aplican algunas reglas a la opción de Construcción por puntos:
   - Comienza con la media racial para cada una de las siete Características tal y como se indica entre paréntesis después de cada tipo de tirada más adelante.
@@ -75,7 +75,7 @@ Cada característica tiene un valor numérico para determinar lo potente que es.
   - Puedes reducir una Características para obtener puntos adicionales. Por ejemplo, reducir FUE 11 a 9 para obtener 2 puntos.
   - Las Características no pueden ser _inferiores_ al valor mínimo, ni _superiores_ al valor máximo posible en una tirada.
 
-Los Directores de Juego son libres de utilizar sus propios métodos o valores de puntos según deseen.
+Los Directores de Juego son libres de utilizar sus propios métodos o vaSabers de puntos según deseen.
 
 La siguiente tabla resume la información necesaria para cada uno de los métodos anteriores. Los grupos de dados se utilizan en cualquiera de los métodos de Tirar los dados, mientras que los números entre paréntesis se utilizan en el método de Construcción por puntos.
 
@@ -114,7 +114,7 @@ Los Puntos de Acción determinan cuántas veces puede actuar un personaje durant
 
 Es la cantidad de daño adicional que un personaje causa cuando golpea físicamente o apica la fuerza. Se utiliza en general en situaciones de combate, pero también puede utilizarse cuando se intenta romper objetos. El Modificador de Daño es un dado adicional que se añade o resta del daño causado por el arma o la herramienta. Si un Modificador de Daño negativo reduce el daño de un arma a cero o menos, entonces no se ha causado ningún daño.
 
-Suma los valores de FUE y TAM y consulta la tabla de Modificador de Daño a continuación:
+Suma los vaSabers de FUE y TAM y consulta la tabla de Modificador de Daño a continuación:
 
 ##### Tabla Modificador de Daño
 
@@ -289,7 +289,7 @@ Each race and culture lists a variety of Standard Skills that the character lear
 
 Professional Skills are further explained in the [Skills](0005_Skills.md) chapter, but in brief they represent those skills which cannot be attempted without years of rigorous study and specialized training. Whereas a character has a basic ability in all Standard Skills, they have zero ability in any Professional Skill unless chosen as part of their cultural upbringing or Class.
 
-Chosen Professional Skills start off at their Base Level Characteristic value as per Standard Skills. Some Professional Skills such as Craft, Languages, or Lores offer choice of a specialization. In these cases, the specialty chosen should be one which suits that culture.
+Chosen Professional Skills start off at their Base Level Characteristic value as per Standard Skills. Some Professional Skills such as Artesanía, Idiomas, or Sabers offer choice of a specialization. In these cases, the specialty chosen should be one which suits that culture.
 
 ### Racial Skill Quick Picks
 
@@ -299,22 +299,22 @@ Quick Picks provide an average selection of skills, enabling quick character cre
 
 | Raza/Cultura | Habilidades Básicas | Habilidades Profesionales |
 | :-- | :-- | :-- |
-| Human (Barbarian, Warrior Type) | Athletics +10, Brawn +10, Endurance +15, First Aid+5, Locale+10, Perception +10, and either Boating or Ride at +10 | Navigation +10, Seamanship or Survival +10, Track +10 |
-| Human (Barbarian, Wise Person) | Athletics +5, Endurance +5, First Aid +15, Locale +15, Perception +15, and either Boating or Ride at +10 | Healing +10, Language (any\*) +10, Lore (any) +15 |
-| Human(Civilized, Street Smart) | Conceal +10, Deceit +15, Drive +5, Influence +10, Insight +10, Locale +10, Willpower +10 | Craft. (any) +5, Commerce +10, Streetwise +15 |
-| Human (Civilized, Book Smart) | Conceal +5, Deceit +5, Drive +5, Influence +10, Insight +15, Locale +15, Willpower +10 | Commerce +10, Language (any\*) or Lore (any) +10, Lore (any) or Musicianship +15 |
-| Human (Nomad, Warrior Type) | Endurance +10, First Aid +5, Locale +5, Perception +10, Stealth +10, and two of the following, at +15 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Navigation +10, Survival +10, Track +10 |
-| Human (Nomad, Wise Person) | Endurance +5, First Aid +15, Locale +10, Lore (any), +15, Perception +10, Stealth +5, and two of the following, one at +5 each: Athletics, Boating, Drive, Ride, or Swim (depending on the primary mode of travel) | Healing +10, Language (any\*) +10, Lore (any) +10 |
-| Human (Primitive, Warrior Type) | Brawn +10, Endurance +10, Evade +10, Locale +5, Perception +10, Stealth +15, and one of either Athletics, Boating, First Aid, or Swim at +10 | Survival +10, Track +10; and one of either Athletics, Boating, First Aid, Navigation, or Swim at +10 |
-| Human (Primitive, Wise Person) | Endurance +5, Evade +5, First Aid +15, Locale +15, Perception +15, Stealth +5, and one of either Athletics, Boating, or Swim at +5 | Healing +10, Language (any\*) +10, Lore (any), +15 |
-| Dwarf | Athletics +10, Brawn +15, Endurance +10, Evade +10, Locale +10, Perception +5, Willpower +10 | Commerce or Mechanisms +10, Craft. (any) +10, Survival +10 |
-| Elf | Conceal +5, Influence +10, Insight +10, Locale +10, Perception +15, Stealth +10, Willpower +10 | Survival +10, and two of the following, at +10 each: Language (any\*\*), Lore (any), or Musicianship |
-| Gnome | Deceit +10, Evade +15, Insight +10, Locale +10, Perception +5, Stealth +10, Willpower +10 | Commerce +10, Craft. (any) +10, Mechanisms or Survival +10 |
-| Half-Elf (Raised as Elf) | Conceal +10, Influence +10, Insight +10, Locale +10, Perception +10, Stealth +10, Willpower +10 | Language (any\*\*) +10, Lore (any) +10, Musicianship or Survival +10 |
-| Half-Elf (Raised as Human) | Select an appropriate Human Quick Pick |
-| Half-Orc(Raised as Orc) | Athletics +15, Brawn +15, Endurance +15, Evade +10, First Aid +5, Locale +5, Perception +5 | Navigate +10, Survival +10, Track +10 |
-| Half-Orc (Raised as Human) | Select an appropriate Human Quick Pick |
-| Halfling | Dance or Sing +5, Evade +15, Insight +5, Locale +5, Perception +15, Stealth +15, Willpower +15 | Craft. (any) +10, Musicianship +5, Streetwise +10 |
+| Humano (Bárbaro, Guerrero) | Atletismo +10, Músculo +10, Aguante +15, Primeros Auxilios +5, Conocimiento Local +10, Percepción +10, y Manejo de botes o Montar a +10 | Orientación +10, Navegación o Supervivencia +10, Rastrear +10 |
+| Humano (Bárbaro, Persona sabia) | Atletismo +5, Aguante +5, Primeros Auxilios +15, Conocimiento Local +15, Percepción +15, y Manejo de botes o Montar a +10 | Curación +10, Idioma (cualquiera\*) +10, Saber (cualquiera) +15 |
+| Humano (Civilizado, Street Smart) | Ocultar +10, Engañar +15, Conducir +5, Influencia +10, Perspicacia +10, Conocimiento Local +10, Voluntad +10 | Artesanía (cualquiera) +5, Comerciar +10, Callejeo +15 |
+| Humano (Civilizado, Book Smart) | Ocultar +5, Engañar +5, Conducir +5, Influencia +10, Perspicacia +15, Conocimiento Local +15, Voluntad +10 | Comerciar +10, Idioma (cualquiera\*) o Saber (cualquiera) +10, Saber (cualquiera) o Música +15 |
+| Humano (Nómada, Guerrero) | Aguante +10, Primeros Auxilios +5, Conocimiento Local +5, Percepción +10, Sigilo +10, y dos de las siguientes, a +15 cada una: Atletismo, Manejo de botes, Conducir, Montar, o Nadar (dependiendo de su modo de viaje principal) | Orientación +10, Supervivencia +10, Rastrear +10 |
+| Humano (Nómada, Persona sabia) | Aguante +5, Primeros Auxilios +15, Conocimiento Local +10, Saber (cualquiera), +15, Percepción +10, Sigilo +5, y dos de las siguientes, a +5 cada una: Atletismo, Manejo de botes, Conducir, Montar, o Nadar (dependiendo de su modo de viaje principal) | Curación +10, Idioma (cualquiera\*) +10, Saber (cualquiera) +10 |
+| Humano (Primitivo, Guerrero) | Músculo +10, Aguante +10, Evadir +10, Conocimiento Local +5, Percepción +10, Sigilo +15, y una de las siguientes Atletismo, Manejo de botes, Primeros Auxilios, o Nadar a +10 | Supervivencia +10, Rastrear +10; y una de las siguientes Atletismo, Manejo de botes, Primeros Auxilios, Orientación, o Nadar a +10 |
+| Humano (Primitivo, Persona sabia) | Aguante +5, Evadir +5, Primeros Auxilios +15, Conocimiento Local +15, Percepción +15, Sigilo +5, y una de las siguientes Atletismo, Manejo de botes, o Nadar a +5 | Curación +10, Idioma (cualquiera\*) +10, Saber (cualquiera), +15 |
+| Enano | Atletismo +10, Músculo +15, Aguante +10, Evadir +10, Conocimiento Local +10, Percepción +5, Voluntad +10 | Comerciar o Mecanismos +10, Artesanía. (cualquiera) +10, Supervivencia +10 |
+| Elfo | Ocultar +5, Influencia +10, Perspicacia +10, Conocimiento Local +10, Percepción +15, Sigilo +10, Voluntad +10 | Supervivencia +10, y dos de las siguientes, a +10 cada una: Idioma (cualquiera\*\*), Saber (cualquiera), o Música |
+| Gnomo | Engañar +10, Evadir +15, Perspicacia +10, Conocimiento Local +10, Percepción +5, Sigilo +10, Voluntad +10 | Comerciar +10, Artesanía. (cualquiera) +10, Mecanismos o Supervivencia +10 |
+| Medio-Elfo (Criado como elfo) | Ocultar +10, Influencia +10, Perspicacia +10, Conocimiento Local +10, Percepción +10, Sigilo +10, Voluntad +10 | Idioma (cualquiera\*\*) +10, Saber (cualquiera) +10, Música o Supervivencia +10 |
+| Medio-Elfo (Criado como humano) | Select an appropriate Human Quick Pick |
+| Medio-Orco (Criado como orco) | Atletismo +15, Músculo +15, Aguante +15, Evadir +10, Primeros Auxilios +5, Conocimiento Local +5, Percepción +5 | Orientación +10, Supervivencia +10, Rastrear +10 |
+| Medio-Orco (Criado como humano) | Select an appropriate Human Quick Pick |
+| Halfling | Bailar o Cantar +5, Evadir +15, Perspicacia +5, Conocimiento Local +5, Percepción +15, Sigilo +15, Voluntad +15 | Artesanía. (cualquiera) +10, Música +5, Callejeo +10 |
 
 _\* Los humanos no están limitados en la elección de idiomas durante la creación de personaje si pueden justificarlo._
 
@@ -323,17 +323,17 @@ _\*\* Durante la creación de personaje, los idiomas adicionales están limitado
 
 ### Racial Skill Point Buy
 
-Optionally, you may spend points to customize a specific character concept. This allows for a more tailored character at the expense of time. When applying Skills perform the following steps:
+Optionally, you may spend points to customize a specific character concept. This allows for a more taiSaberd character at the expense of time. When applying Skills perform the following steps:
 
 - Select three Professional Skills from the options offered (See [Chapter 2](0002_Culture_and_Races.md) for race descriptions).
-- Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increasing that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
+- Distribute 100 points among the listed Standard Skills and chosen Professional Skills, increaCantar that skill by 1% for every point spent on improving it. Players are free to choose how much each skill is improved by, but each skill must receive a minimum of 5% and cannot receive more than 15%.
 
 ---
 ## Paso 6: Clase
 
 Class represents the career the character has embarked on as part of the transition to adulthood, and it further defines the character's skill development.
 
-Players are normally free to choose which Class they wish their character to play assuming that the Games Master deems it suitable. The Class write-ups give some guidance as to the common Classes available to each racial/cultural type. This should be seen as common representations, and not restrictions. Players should feel free to play as any Class/Race combination that best fits their vision.
+Players are normally free to choose which Class they wish their character to play assuming that the Games Master deems it suitable. The Class write-ups give some guiBailar as to the common Classes available to each racial/cultural type. This should be seen as common representations, and not restrictions. Players should feel free to play as any Class/Race combination that best fits their vision.
 
 Like Race/Cultural backgrounds, each Class offers the chance to improve a range of Standard and Professional Skills commonly used by that occupation. Unlike cultural backgrounds, characters need not invest their points in every available skill but may tailor which ones are taken as those fitting for their specific role or Culture.
 
@@ -345,10 +345,10 @@ Choose a Class Quick Pick for an average selection of skills useful to the Class
 
 | Class | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
-| Cleric | Combat Skill (Cleric) +15; First Aid +5; Influence +5; Insight +10; Willpower +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Lore (Religion) +5 and one of the following at +5: Language (any), Lore (any), or Oratory |
-| Fighter | Athletics +10; Boating or Ride +5; Brawn +15; Combat Skill (Fighter) +20\*\*; Endurance +15; Evade +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Survival or Navigation |
-| Magic-User | Evade +10; First Aid +5; Influence +5; Insight +5; Locale +5; Perception +5; Willpower +15 | Arcane Casting +15; Arcane Knowledge +15; Language (any) +5; Language (any) or Lore (any) +5; Lore (Alchemy) +10 |
-| Rogue | Athletics +15; Combat Skill (Rogue) +10; Deceit +5; Evade +15; Insight +5; Perception +5; Stealth +15 | Language (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mechanisms +10; and two of the following at +5: Acrobatics, Acting, Commerce, Disguise, Intimidation, Seduction, Slight, or Streetwise |
+| Cleric | Combat Skill (Cleric) +15; Primeros Auxilios +5; Influencia +5; Perspicacia +10; Voluntad +15 | Channel +15; Courtesy +10; Devotion (deity) +15; Saber (Religion) +5 and one of the following at +5: Idioma (cualquiera), Saber (cualquiera), or Oratory |
+| Fighter | Atletismo +10; Manejo de botes or Montar +5; Músculo +15; Combat Skill (Fighter) +20\*\*; Aguante +15; Evadir +10; Unarmed +15\*\* | Intimidation +10; and two of the following at +5: Gambling, Supervivencia or Orientación |
+| Magic-User | Evadir +10; Primeros Auxilios +5; Influencia +5; Perspicacia +5; Conocimiento Local +5; Percepción +5; Voluntad +15 | Arcane Casting +15; Arcane Knowledge +15; Idioma (cualquiera) +5; Idioma (cualquiera) or Saber (cualquiera) +5; Saber (Alchemy) +10 |
+| Rogue | Atletismo +15; Combat Skill (Rogue) +10; Engañar +5; Evadir +15; Perspicacia +5; Percepción +5; Sigilo +15 | Idioma (Thieves' Cant) +40\*\*\*; Lockpicking +10; Mecanismos +10; and two of the following at +5: Acrobatics, Acting, Comerciar, Disguise, Intimidation, Seduction, Slight, or Callejeo |
 
 _\* Acquired at the Base Level._
 
@@ -358,13 +358,13 @@ _\*\*\* Acquired at the Base Level, +40% bonus applied._
 
 ### Class Skill Point Buy
 
-Optionally, you may spend points to customize a specific character concept. As above, this allows for a more tailored character at the expense of time. Characters using this method, develop their Class skills in the following way:
+Optionally, you may spend points to customize a specific character concept. As above, this allows for a more taiSaberd character at the expense of time. Characters uCantar this method, develop their Class skills in the following way:
 
 - Select up to 3 skills from the Professional Skills available to that Class.
-- Distribute 100 points among the Class's listed Standard Skills and whatever Professional Skills were chosen, increasing each skill by 1% for every point spent on improving it. Not all the available skills need to be improved, but no individual skill can receive more than a 15% increase. Some Classes grant more than 3 Professional Skills, but never more points.
-- All Classes include a Combat Skill that encompasses the weapons that Class is typically trained in the use of. This may be as few as 4 or 5 simple weapons as in the case of the magic-user, to all weapons and shields as in the case of the fighter. Where Combat Skill is included in the list of Standard Skills, it is treated as such and may be improved with Class Skill Points. Where Combat Skill is omitted, as is the case of the magic-user, it may only be improved using Bonus Skill Points during Step 7 of character creation.
+- Distribute 100 points among the Class's listed Standard Skills and whatever Professional Skills were chosen, increaCantar each skill by 1% for every point spent on improving it. Not all the available skills need to be improved, but no individual skill can receive more than a 15% increase. Some Classes grant more than 3 Professional Skills, but never more points.
+- All Classes include a Combat Skill that encompasses the weapons that Class is typically trained in the use of. This may be as few as 4 or 5 simple weapons as in the case of the magic-user, to all weapons and shields as in the case of the fighter. Where Combat Skill is included in the list of Standard Skills, it is treated as such and may be improved with Class Skill Points. Where Combat Skill is omitted, as is the case of the magic-user, it may only be improved uCantar Bonus Skill Points during Step 7 of character creation.
 
-Newly chosen Professional Skills and the Class Combat Skill start at their Base Level Characteristic value. Choosing a Professional Skill previously gained via cultural background simply allows the character to further apply some of their Class Skill Points at this stage. Some of these skills, such as Craft, Language, or Lore, offer the choice of a specialization. In these cases, the specialty selected should be one that suits the character's culture.
+Newly chosen Professional Skills and the Class Combat Skill start at their Base Level Characteristic value. ChooCantar a Professional Skill previously gained via cultural background simply allows the character to further apply some of their Class Skill Points at this stage. Some of these skills, such as Artesanía, Idioma, or Saber, offer the choice of a specialization. In these cases, the specialty selected should be one that suits the character's culture.
 
 Certain Classes may have either more skills to choose from or may choose more skills than others. This is balanced by the fact that all characters are still built with the same 100 points. So, a character with more skills will end up having to spread their points more thinly knowing a little about a lot, and a character that has fewer skills to choose from will end up being more specialized.
 
@@ -376,7 +376,7 @@ A character may choose to start at Rank 0 if they do not have sufficient skill l
 
 #### Combat Skill (STR+DEX)
 
-Combat Skill is the skill relating to fighting and the use of weapons. It is a diverse skill with many specializations related to the pertaining character Class. Most fighting traditions encompass training in multiple weapons of the same type, along with the techniques required to use them all effectively. Therefore, Combat Skill is an umbrella that melds together many related aspects of fighting under a single ability, removing the need to purchase multiple sub-skills.
+Combat Skill is the skill relating to fighting and the use of weapons. It is a diverse skill with many specializations related to the pertaining character Class. Most fighting traditions encompass training in multiple weapons of the same type, along with the techniques required to use them all effectively. Therefore, Combat Skill is an umbrella that melds together many related aspects of fighting under a Cantarle ability, removing the need to purchase multiple sub-skills.
 
 Combat Skill has a Basic Percentage equal to STR+DEX.
 
@@ -391,9 +391,9 @@ At this stage, every character gains an additional pool of 'free' Skill Points b
 
 Bonus Skill Points are used in the following ways:
 
-- Allow the character the option of choosing one final new Professional Skill for free, reflecting a personal hobby or interest.
+- Allow the character the option of chooCantar one final new Professional Skill for free, reflecting a personal hobby or interest.
 - Alternately, the character may add a new weapon type to their Combat Skill.
-- Either add a +10 bonus to ten different skills, or distribute points among them, increasing each skill by 1% for every point spent on improving it. No individual skill can receive more points than indicated by their Experience Level. If you choose a new Professional Skill, you must add points to it.
+- Either add a +10 bonus to ten different skills, or distribute points among them, increaCantar each skill by 1% for every point spent on improving it. No individual skill can receive more points than indicated by their Experience Level. If you choose a new Professional Skill, you must add points to it.
 - Save for the optional hobby specialty, no points may be assigned to Professional Skills not learned as part of their culture or Class.
 
 ### Creating Experienced Characters
@@ -402,7 +402,7 @@ It is recommended that beginning characters start fresh, at Rank 1, with little 
 
 A table is provided, breaking experience into Experience Categories. A character's Experience has a direct correlation to age and skill competence; more experienced characters naturally have more life experience than their younger compatriots. However, the noted Age Bonus should be treated as approximate, as campaigns advance at different rates — some campaigns have lots of game time pass between adventures while others are one long string of unbroken adventures. When converting an existing character, simply substitute the actual age for that noted below.
 
-This table may also be used for NPCs, whether built using a Class or a career, and follows the same rules. There is one exception: Non-Player Characters built as part of a career have no special Abilities, including the extra Luck Points, which are reserved for player characters and significant Non-Player Characters only. Note that a starting NPC built as a career is Rank 1 by default.
+This table may also be used for NPCs, whether built uCantar a Class or a career, and follows the same rules. There is one exception: Non-Player Characters built as part of a career have no special Abilities, including the extra Luck Points, which are reserved for player characters and significant Non-Player Characters only. Note that a starting NPC built as a career is Rank 1 by default.
 
 ##### Experience Table
 
